@@ -17,6 +17,7 @@
   </a>
 </p>
 
+just a small test
 https://github.com/pivoshenko/catppuccin-startpage/assets/40499728/d96c8bd6-168e-408f-b4f0-0e339569c696
 
 > [!NOTE]
