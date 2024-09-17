@@ -4,6 +4,7 @@
   Catppuccin <a href="https://github.com/pivoshenko/catppuccin-startpage">Startpage</a>
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
+another small test
 
 <p align="center">
   <a href="https://github.com/pivoshenko/catppuccin-startpage/stargazers">
