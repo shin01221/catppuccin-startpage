@@ -64,7 +64,7 @@ const default_config = {
             {
               name: "manga",
               url: "https://manganato.com/",
-              icon: "alphabet-korean",
+              icon: "biohazard",
               icon_color: palette.red,
               "localIcons": true
             },
