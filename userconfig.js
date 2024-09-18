@@ -62,14 +62,14 @@ const default_config = {
               "localIcons": true
             },
             {
-              name: "manganato",
+              name: "manga",
               url: "https://manganato.com/",
               icon: "seeding",
               icon_color: palette.red,
               "localIcons": true
             },
             {
-              name: "asurascans",
+              name: "asura",
               url: "https://asura-scans.com/",
               icon: "seeding",
               "localIcons": true
