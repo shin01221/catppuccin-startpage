@@ -28,16 +28,16 @@ const default_config = {
               icon_color: palette.peach,
             },
             {
-              name: "redit",
+              name: "reddit",
               url: "https://www.reddit.com/",
-              icon: "brand-x",
+              icon: "brand-reddit",
               icon_color: palette.red,
               "localIcons": true
             },
             {
               name: "X",
               url: "https://twitter.com/",
-              icon: "brand-reddit",
+              icon: "brand-x",
               icon_color: palette.red,
             },
           ],
