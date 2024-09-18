@@ -45,33 +45,33 @@ const default_config = {
           ],
         },
         {
-          name: "games",
+          name: "torrent",
           links: [
             {
-              name: "IGN",
-              url: "https://www.ign.com/account/playlist/library",
-              icon: "device-gamepad",
+              name: "1373x",
+              url: "https://1337xto.to/",
+              icon: "percentage-20",
               icon_color: palette.green,
               "localIcons": true
             },
             {
-              name: "steam",
-              url: "https://store.steampowered.com",
-              icon: "brand-steam",
+              name: "yts",
+              url: "https://en.yts-official.mx/",
+              icon: "percentage-50",
               icon_color: palette.peach,
               "localIcons": true
             },
             {
-              name: "epicgames",
-              url: "https://store.epicgames.com",
-              icon: "brand-fortnite",
+              name: "manganato",
+              url: "https://manganato.com/",
+              icon: "percentage-75",
               icon_color: palette.red,
               "localIcons": true
             },
             {
-              name: "nintendo",
-              url: "https://store.nintendo.co.uk",
-              icon: "device-nintendo",
+              name: "asurascans",
+              url: "https://asura-scans.com/",
+              icon: "percentage-100",
               "localIcons": true
               icon_color: palette.blue,
             },
