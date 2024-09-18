@@ -50,28 +50,28 @@ const default_config = {
             {
               name: "1373x",
               url: "https://1337xto.to/",
-              icon: "percentage-20",
+              icon: "seeding",
               icon_color: palette.green,
               "localIcons": true
             },
             {
               name: "yts",
               url: "https://en.yts-official.mx/",
-              icon: "percentage-50",
+              icon: "seeding",
               icon_color: palette.peach,
               "localIcons": true
             },
             {
               name: "manganato",
               url: "https://manganato.com/",
-              icon: "percentage-75",
+              icon: "seeding",
               icon_color: palette.red,
               "localIcons": true
             },
             {
               name: "asurascans",
               url: "https://asura-scans.com/",
-              icon: "percentage-100",
+              icon: "seeding",
               "localIcons": true
               icon_color: palette.blue,
             },
