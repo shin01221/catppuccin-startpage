@@ -26,6 +26,7 @@ const default_config = {
               url: "https://www.facebook.com",
               icon: "brand-facebook",
               icon_color: palette.peach,
+              "localIcons": true
             },
             {
               name: "reddit",
@@ -39,6 +40,7 @@ const default_config = {
               url: "https://twitter.com/",
               icon: "brand-x",
               icon_color: palette.red,
+              "localIcons": true
             },
           ],
         },
@@ -50,23 +52,27 @@ const default_config = {
               url: "https://www.ign.com/account/playlist/library",
               icon: "device-gamepad",
               icon_color: palette.green,
+              "localIcons": true
             },
             {
               name: "steam",
               url: "https://store.steampowered.com",
               icon: "brand-steam",
               icon_color: palette.peach,
+              "localIcons": true
             },
             {
               name: "epicgames",
               url: "https://store.epicgames.com",
               icon: "brand-fortnite",
               icon_color: palette.red,
+              "localIcons": true
             },
             {
               name: "nintendo",
               url: "https://store.nintendo.co.uk",
               icon: "device-nintendo",
+              "localIcons": true
               icon_color: palette.blue,
             },
           ],
@@ -79,18 +85,21 @@ const default_config = {
               url: "https://anilist.co/home",
               icon: "brand-funimation",
               icon_color: palette.green,
+              "localIcons": true
             },
             {
               name: "youtube",
               url: "https://www.youtube.com",
               icon: "brand-youtube",
               icon_color: palette.peach,
+              "localIcons": true
             },
             {
               name: "twitch",
               url: "https://www.twitch.tv/",
               icon: "brand-twitch",
               icon_color: palette.red,
+              "localIcons": true
             },
           ],
         },
