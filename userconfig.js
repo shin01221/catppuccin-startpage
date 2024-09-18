@@ -22,20 +22,21 @@ const default_config = {
           name: "social medias",
           links: [
             {
-              name: "telegram",
-              url: "https://web.telegram.org",
-              icon: "brand-telegram",
-              icon_color: palette.green,
-            },
-            {
               name: "facebook",
               url: "https://www.facebook.com",
               icon: "brand-facebook",
               icon_color: palette.peach,
             },
             {
-              name: "reddit",
-              url: "https://www.reddit.com/r/unixporn",
+              name: "redit",
+              url: "https://www.reddit.com/",
+              icon: "brand-x",
+              icon_color: palette.red,
+              "localIcons": true
+            },
+            {
+              name: "X",
+              url: "https://twitter.com/",
               icon: "brand-reddit",
               icon_color: palette.red,
             },
