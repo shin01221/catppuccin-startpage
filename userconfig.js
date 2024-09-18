@@ -3,7 +3,7 @@ const palette = macchiato;
 const default_config = {
   overrideStorage: true,
   temperature: {
-    location: "Cario",
+    location: "Cairo",
     scale: "C",
   },
   clock: {
@@ -14,6 +14,93 @@ const default_config = {
   fastlink: "https://app.raindrop.io",
   openLastVisitedTab: true,
   tabs: [
+    {
+      name: "chi ll",
+      background_url: "src/img/banners/cbg-10.gif",
+      categories: [
+        {
+          name: "social medias",
+          links: [
+            {
+              name: "telegram",
+              url: "https://web.telegram.org",
+              icon: "brand-telegram",
+              icon_color: palette.green,
+            },
+            {
+              name: "facebook",
+              url: "https://www.facebook.com",
+              icon: "brand-facebook",
+              icon_color: palette.peach,
+            },
+            {
+              name: "reddit",
+              url: "https://www.reddit.com/r/unixporn",
+              icon: "brand-reddit",
+              icon_color: palette.red,
+            },
+          ],
+        },
+        {
+          name: "games",
+          links: [
+            {
+              name: "IGN",
+              url: "https://www.ign.com/account/playlist/library",
+              icon: "device-gamepad",
+              icon_color: palette.green,
+            },
+            {
+              name: "steam",
+              url: "https://store.steampowered.com",
+              icon: "brand-steam",
+              icon_color: palette.peach,
+            },
+            {
+              name: "epicgames",
+              url: "https://store.epicgames.com",
+              icon: "brand-fortnite",
+              icon_color: palette.red,
+            },
+            {
+              name: "nintendo",
+              url: "https://store.nintendo.co.uk",
+              icon: "device-nintendo",
+              icon_color: palette.blue,
+            },
+          ],
+        },
+        {
+          name: "video",
+          links: [
+            {
+              name: "anilist",
+              url: "https://anilist.co/home",
+              icon: "brand-funimation",
+              icon_color: palette.green,
+            },
+            {
+              name: "youtube",
+              url: "https://www.youtube.com",
+              icon: "brand-youtube",
+              icon_color: palette.peach,
+            },
+            {
+              name: "patreon",
+              url: "https://www.patreon.com",
+              icon: "brand-patreon",
+              icon_color: palette.red,
+            },
+            {
+              name: "kyivstar",
+              url: "https://tv.kyivstar.ua",
+              icon: "star-filled",
+              icon_color: palette.blue,
+            },
+          ],
+        },
+      ],
+    },
     {
       name: "myself",
       background_url: "src/img/banners/cbg-9.gif",
@@ -176,93 +263,6 @@ const default_config = {
               name: "google research",
               url: "https://blog.research.google",
               icon: "hexagon-letter-g",
-              icon_color: palette.blue,
-            },
-          ],
-        },
-      ],
-    },
-    {
-      name: "chi ll",
-      background_url: "src/img/banners/cbg-12.gif",
-      categories: [
-        {
-          name: "social medias",
-          links: [
-            {
-              name: "telegram",
-              url: "https://web.telegram.org",
-              icon: "brand-telegram",
-              icon_color: palette.green,
-            },
-            {
-              name: "facebook",
-              url: "https://www.facebook.com",
-              icon: "brand-facebook",
-              icon_color: palette.peach,
-            },
-            {
-              name: "reddit",
-              url: "https://www.reddit.com/r/unixporn",
-              icon: "brand-reddit",
-              icon_color: palette.red,
-            },
-          ],
-        },
-        {
-          name: "games",
-          links: [
-            {
-              name: "IGN",
-              url: "https://www.ign.com/account/playlist/library",
-              icon: "device-gamepad",
-              icon_color: palette.green,
-            },
-            {
-              name: "steam",
-              url: "https://store.steampowered.com",
-              icon: "brand-steam",
-              icon_color: palette.peach,
-            },
-            {
-              name: "epicgames",
-              url: "https://store.epicgames.com",
-              icon: "brand-fortnite",
-              icon_color: palette.red,
-            },
-            {
-              name: "nintendo",
-              url: "https://store.nintendo.co.uk",
-              icon: "device-nintendo",
-              icon_color: palette.blue,
-            },
-          ],
-        },
-        {
-          name: "video",
-          links: [
-            {
-              name: "anilist",
-              url: "https://anilist.co/home",
-              icon: "brand-funimation",
-              icon_color: palette.green,
-            },
-            {
-              name: "youtube",
-              url: "https://www.youtube.com",
-              icon: "brand-youtube",
-              icon_color: palette.peach,
-            },
-            {
-              name: "patreon",
-              url: "https://www.patreon.com",
-              icon: "brand-patreon",
-              icon_color: palette.red,
-            },
-            {
-              name: "kyivstar",
-              url: "https://tv.kyivstar.ua",
-              icon: "star-filled",
               icon_color: palette.blue,
             },
           ],
