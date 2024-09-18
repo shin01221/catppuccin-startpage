@@ -57,23 +57,23 @@ const default_config = {
             {
               name: "yts",
               url: "https://en.yts-official.mx/",
-              icon: "seeding",
+              icon: "percentage-50",
               icon_color: palette.peach,
               "localIcons": true
             },
             {
               name: "manga",
               url: "https://manganato.com/",
-              icon: "seeding",
+              icon: "percentage-75",
               icon_color: palette.red,
               "localIcons": true
             },
             {
               name: "asura",
               url: "https://asura-scans.com/",
-              icon: "seeding",
-              "localIcons": true
+              icon: "percentage-100",
               icon_color: palette.blue,
+              "localIcons": true
             },
           ],
         },
